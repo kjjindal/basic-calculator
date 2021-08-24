@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+}
+
+h1{
+     text-align: center;              /* align all text in center */
+     font-size: 30px;
+     text-transform: uppercase;
+     color: white;
+}
+table{
+    margin: auto;
+}
+button{
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    background-color:springgreen;
+    border: 1px solid greenyellow;
+}
+
+button:hover{
+    transform: scale(1.03);      
+}
+
+
+input{
+    width: 287px;
+    height: 30px;
+    border: none;
+    outline-width: 0;
+    font-size: larger;
+}
+marquee{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+}
